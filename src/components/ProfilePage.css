@@ -1,0 +1,416 @@
+.profile-page {
+  background-color: #f7f7f7;
+  padding: 30px 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: #4a90e2;
+  font-weight: 500;
+  padding: 8px 0;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.back-button:hover {
+  color: #3a7bc8;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.col-md-8 {
+  width: 66.66%;
+  padding: 0 15px;
+}
+
+.col-md-4 {
+  width: 33.33%;
+  padding: 0 15px;
+}
+
+.col-lg-12 {
+  width: 100%;
+  padding: 0 15px;
+}
+
+@media (max-width: 768px) {
+  .col-md-8,
+  .col-md-4 {
+    width: 100%;
+  }
+
+  .col-md-4 {
+    margin-top: 30px;
+  }
+}
+
+/* Profile Card */
+.profile-card {
+  display: flex;
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.profile-thumb {
+  width: 200px;
+  height: auto;
+  overflow: hidden;
+}
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-details {
+  flex: 1;
+  padding: 20px;
+}
+
+.profile-content h3 {
+  font-size: 24px;
+  margin: 0 0 5px;
+}
+
+.profile-role {
+  color: #4a90e2;
+  margin: 0 0 15px;
+  font-weight: 500;
+}
+
+.profile-contact {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 15px;
+}
+
+.profile-contact li {
+  margin-bottom: 8px;
+}
+
+.profile-contact a {
+  display: flex;
+  align-items: center;
+  color: #333;
+  text-decoration: none;
+}
+
+.profile-contact a svg {
+  margin-right: 8px;
+  color: #666;
+}
+
+.qr-code {
+  margin-top: 15px;
+}
+
+.qr-code img {
+  max-width: 120px;
+}
+
+@media (max-width: 576px) {
+  .profile-card {
+    flex-direction: column;
+  }
+
+  .profile-thumb {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+/* Tabs */
+.profile-tabs {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.tabs-nav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid #eee;
+}
+
+.tabs-nav li {
+  padding: 15px 20px;
+  cursor: pointer;
+  font-weight: 500;
+  color: #666;
+  transition: all 0.3s;
+}
+
+.tabs-nav li.active {
+  color: #4a90e2;
+  border-bottom: 2px solid #4a90e2;
+}
+
+.tabs-nav li:hover {
+  background-color: #f9f9f9;
+}
+
+.tab-content {
+  padding: 20px;
+}
+
+.tab-pane {
+  animation: fadeIn 0.5s;
+}
+
+/* Review Section */
+.review-summary {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+}
+
+.review-summary li {
+  margin-right: 15px;
+  color: #666;
+}
+
+.star-rating {
+  display: flex;
+}
+
+.star-rating .empty-star {
+  color: #ddd;
+  margin-right: 2px;
+}
+
+.review-form h4 {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 14px;
+}
+
+.form-textarea {
+  resize: vertical;
+}
+
+.rating-select {
+  display: flex;
+}
+
+.rating-select .star {
+  font-size: 24px;
+  color: #ddd;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.rating-select .star:hover {
+  color: #ffb400;
+}
+
+.btn-submit {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.btn-submit:hover {
+  background-color: #3a7bc8;
+}
+
+/* Sidebar */
+.sidebar {
+  margin-bottom: 30px;
+}
+
+.contact-widget,
+.categories-widget,
+.recent-widget {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.contact-widget h4,
+.categories-widget h4,
+.recent-widget h4 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.phone-group {
+  display: flex;
+}
+
+.country-select {
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px 0 0 4px;
+  font-size: 14px;
+  background-color: #f9f9f9;
+}
+
+.phone-group .form-input {
+  border-radius: 0 4px 4px 0;
+  border-left: none;
+}
+
+.btn-contact {
+  width: 100%;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.btn-contact:hover {
+  background-color: #3a7bc8;
+}
+
+/* Categories */
+.categories-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categories-list li {
+  border-bottom: 1px solid #eee;
+}
+
+.categories-list li:last-child {
+  border-bottom: none;
+}
+
+.categories-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.categories-list a:hover {
+  color: #4a90e2;
+}
+
+.category-icon {
+  margin-right: 8px;
+  color: #4a90e2;
+}
+
+.categories-list span {
+  color: #999;
+  font-size: 13px;
+}
+
+/* Recently Viewed */
+.recent-item {
+  display: flex;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.recent-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.recent-item img {
+  width: 90px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 15px;
+}
+
+.recent-details h5 {
+  margin: 0 0 5px;
+  font-size: 14px;
+}
+
+.recent-details a {
+  color: #4a90e2;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.recent-details ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 5px 0 0;
+  font-size: 12px;
+  color: #666;
+}
+
+.recent-details ul li {
+  margin-right: 10px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

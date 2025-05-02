@@ -1,0 +1,2314 @@
+[
+  {
+    "value": "540",
+    "label": "100 West Makati (cebu)    - 100 Gil Puyat Ave. cor Washington Street"
+  },
+  {
+    "value": "66",
+    "label": "1016 Residences    - Cebu Business Park."
+  },
+  {
+    "value": "1010",
+    "label": "38 Park Avenue    - IT Park, Lahug, Cebu City"
+  },
+  {
+    "value": "88880037",
+    "label": "8 Forbes Town Road Condominium    - 0"
+  },
+  {
+    "value": "1330",
+    "label": "8 Spatial (davao)"
+  },
+  {
+    "value": "452",
+    "label": "88 Brookside Residences    - San Roque Talisay City, Cebu"
+  },
+  {
+    "value": "1032",
+    "label": "88 Hillside Residences    - P. Sanchez St., Pagsabungan, Mandaue City"
+  },
+  {
+    "value": "1038",
+    "label": "88 Summer Breeze    - Pit-os, Talamban, Cebu City"
+  },
+  {
+    "value": "654",
+    "label": "Acacia Drive    - Acacia Drive"
+  },
+  {
+    "value": "275",
+    "label": "Acacia Hills Subdivision    - Mandaue, Cebu"
+  },
+  {
+    "value": "88880004",
+    "label": "Acqua Private Residences    - 0"
+  },
+  {
+    "value": "1059",
+    "label": "Adamah Homes North    - jugan"
+  },
+  {
+    "value": "965",
+    "label": "Adelaida Park Residences    - Mid-Balulang"
+  },
+  {
+    "value": "548",
+    "label": "Adelia Residences    - Guadalupe Cebu"
+  },
+  {
+    "value": "1863",
+    "label": "Agan Katangawan    - Katangawan"
+  },
+  {
+    "value": "904",
+    "label": "Agan Metro    - Arradaza Street"
+  },
+  {
+    "value": "88880061",
+    "label": "Agan North Phase 4    - 0"
+  },
+  {
+    "value": "88880008",
+    "label": "Air Residences    - 0"
+  },
+  {
+    "value": "892",
+    "label": "Airene    - Abilay Norte, Oton"
+  },
+  {
+    "value": "50",
+    "label": "Ajoya    - Cordova, Mactan"
+  },
+  {
+    "value": "526",
+    "label": "Akina Kabankalan    - Sitio Mohon, Barangay Binicuil, Kabankalan City"
+  },
+  {
+    "value": "864",
+    "label": "Akina Plains Mansilingan    - ceres road"
+  },
+  {
+    "value": "642",
+    "label": "Akina Residences Tangub    - Araneta St."
+  },
+  {
+    "value": "191",
+    "label": "Aldea Del Sol (cebu)    - Mactan Lapulapu Cebu"
+  },
+  {
+    "value": "179",
+    "label": "Aldea Homes    - Sibulan, Dumaguete City"
+  },
+  {
+    "value": "40",
+    "label": "Alegria Palms Dos    - Cordova, Mactan"
+  },
+  {
+    "value": "29",
+    "label": "Alegria Palms Uno    - Alegria, Cordova, Mactan"
+  },
+  {
+    "value": "277",
+    "label": "Almiya    - Canduman, Mandaue City, Cebu"
+  },
+  {
+    "value": "253",
+    "label": "Alveo    - Ayala"
+  },
+  {
+    "value": "707",
+    "label": "Amaia Scapes - Cagayan De Oro    - Anhawon"
+  },
+  {
+    "value": "618",
+    "label": "Amaia Scapes Bulacan    - Brgy. Manggahan and Sta. Cruz , Sta. Maria, Bulacan"
+  },
+  {
+    "value": "617",
+    "label": "Amaia Square Novaliches    - Caloocan City"
+  },
+  {
+    "value": "350",
+    "label": "Amaia Steps    - Mandaue, City"
+  },
+  {
+    "value": "470",
+    "label": "Amani    - Mactan, Lapu-Lapu City"
+  },
+  {
+    "value": "155",
+    "label": "Amisa Private Residences    - Mactan, Cebu"
+  },
+  {
+    "value": "259",
+    "label": "Anami Homes    - Consolacion"
+  },
+  {
+    "value": "389",
+    "label": "Ananya Coast    - Liloan, Cebu"
+  },
+  {
+    "value": "1047",
+    "label": "Antara Residences    - Lawaan, Talisay City, Cebu"
+  },
+  {
+    "value": "88880002",
+    "label": "Antel Spa Residences Makati    - 0"
+  },
+  {
+    "value": "216",
+    "label": "Apple One Banawa Heights    - Good Shepherd Road, Banawa, Cebu City"
+  },
+  {
+    "value": "1500",
+    "label": "Arc Towers    - N. Bacalso Avenue, Cor. V. Rama St. Cebu City"
+  },
+  {
+    "value": "486",
+    "label": "Arezzo Place Davao    - Papaya St"
+  },
+  {
+    "value": "39",
+    "label": "Argao Royal Palms    - Argao, Cebu"
+  },
+  {
+    "value": "1677",
+    "label": "Arterra Residences    - Punta Engano, Lapulapu"
+  },
+  {
+    "value": "1938",
+    "label": "Aruga    - 5097 Punta Engaño Rd, Lapu-Lapu City, 6015 Cebu"
+  },
+  {
+    "value": "88880026",
+    "label": "Arya Residences    - 0"
+  },
+  {
+    "value": "156",
+    "label": "Aspen Heights    - Consolacion, Cebu"
+  },
+  {
+    "value": "232",
+    "label": "Astele    - Buyong Road, Mactan, Lapu-lapu City"
+  },
+  {
+    "value": "867",
+    "label": "Asteria Residences    - San Pedro Street , San Antonio Valley 2"
+  },
+  {
+    "value": "23",
+    "label": "Avalon    - Cebu Business Park, Cebu City"
+  },
+  {
+    "value": "88880042",
+    "label": "Avida Cityflex Towers    - 0"
+  },
+  {
+    "value": "908",
+    "label": "Avida Storeys    - Donato Pison"
+  },
+  {
+    "value": "1132",
+    "label": "Avida Tower 1    - C. M. Recto, Poblacion District"
+  },
+  {
+    "value": "606",
+    "label": "Avida Towers Aspira - Cdo    - Ramon Chavez St."
+  },
+  {
+    "value": "64",
+    "label": "Avida Towers Cebu    - Asiatown IT Park"
+  },
+  {
+    "value": "88880030",
+    "label": "Avida Towers Centera    - 0"
+  },
+  {
+    "value": "88880006",
+    "label": "Avida Towers Makati West    - 0"
+  },
+  {
+    "value": "88880021",
+    "label": "Avida Towers One Union Place    - 0"
+  },
+  {
+    "value": "65",
+    "label": "Avida Towers Riala    - Cebu IT Park"
+  },
+  {
+    "value": "88880001",
+    "label": "Avida Towers Southpoint Makati    - 0"
+  },
+  {
+    "value": "88880039",
+    "label": "Avida Towers Turf    - 0"
+  },
+  {
+    "value": "157",
+    "label": "Azalea    - Lahug, Cebu City"
+  },
+  {
+    "value": "88880015",
+    "label": "Azure Urban Resort Residences    - 0"
+  },
+  {
+    "value": "18",
+    "label": "Bamboo Bay Community    - Mandaue City"
+  },
+  {
+    "value": "742",
+    "label": "Baseline Citadines    - Juana OsmeÃ±a"
+  },
+  {
+    "value": "583",
+    "label": "Baseline Residences 2    - Juana OsmeÃ±a Street"
+  },
+  {
+    "value": "976",
+    "label": "Bayanihan Flats    - 3rd Floor of Pacific Mall Mandaue City Cebu"
+  },
+  {
+    "value": "1488",
+    "label": "Be Residences    - St. Lawrence Street in Lahug, beside the bustling Cebu I.T. Park"
+  },
+  {
+    "value": "644",
+    "label": "Bellavita Cagayan    - Cagayan de Oro"
+  },
+  {
+    "value": "557",
+    "label": "Bellavita General Trias    - Gen. Trias, Cavite"
+  },
+  {
+    "value": "783",
+    "label": "Belle Arte    - Burgos St."
+  },
+  {
+    "value": "823",
+    "label": "Bellefort Estates    - Molino Road"
+  },
+  {
+    "value": "516",
+    "label": "Bellevue Subdivision    - Bellevue, Upper Carmen"
+  },
+  {
+    "value": "1019",
+    "label": "Bernwood Village (toni)    - Metropolis, Jaro"
+  },
+  {
+    "value": "856",
+    "label": "Blessed Sacrament Residences    - Blessed Sacrament Subdivision"
+  },
+  {
+    "value": "1640",
+    "label": "Bloom Residences (manila)    - 1"
+  },
+  {
+    "value": "1044",
+    "label": "Bloomfields General Santos    - Barangay Labangal, National Highway"
+  },
+  {
+    "value": "1441",
+    "label": "Bloq Residences - Sikatuna 1    - Zapatera"
+  },
+  {
+    "value": "158",
+    "label": "Blue Coast Residences    - Mactan, Cebu"
+  },
+  {
+    "value": "88880043",
+    "label": "Blue Sapphire Residences    - 0"
+  },
+  {
+    "value": "1014",
+    "label": "Box Hill West    - Mohon talisay"
+  },
+  {
+    "value": "804",
+    "label": "Brentwood    - Mactan"
+  },
+  {
+    "value": "1678",
+    "label": "Bria Flats Mactan    - Sudtunggan, Basak Lapu-lapu City"
+  },
+  {
+    "value": "1040",
+    "label": "Brighton    - circumferential road"
+  },
+  {
+    "value": "1070",
+    "label": "Brixton Homes    - Purok Golingan Brgy. Mabuhay, General Santos City"
+  },
+  {
+    "value": "194",
+    "label": "Calyx Centre    - Cebu Business Park, Cebu City"
+  },
+  {
+    "value": "1060",
+    "label": "Cambridge Heights    - Malagamot Davao City"
+  },
+  {
+    "value": "594",
+    "label": "Cambridge Village    - East Bank Road"
+  },
+  {
+    "value": "816",
+    "label": "Camella Aklan    - Poblacion"
+  },
+  {
+    "value": "865",
+    "label": "Camella Bacolod    - Cordova Buri Road"
+  },
+  {
+    "value": "902",
+    "label": "Camella Bacolod South    - Beside Bacolod homes Royale"
+  },
+  {
+    "value": "161",
+    "label": "Camella Bohol Subdivision    - Brgy. Bool, Tagbilaran City"
+  },
+  {
+    "value": "423",
+    "label": "Camella Butuan    - Villa Kanangan, Butuan City"
+  },
+  {
+    "value": "78",
+    "label": "Camella Carcar    - Can-asujan, Carcar,Cebu"
+  },
+  {
+    "value": "544",
+    "label": "Camella Davao    - Communal Buhangin, Davao City"
+  },
+  {
+    "value": "719",
+    "label": "Camella Homes    - Palinpinon Road"
+  },
+  {
+    "value": "576",
+    "label": "Camella La Brisa (in Mactan)    - Subabasbas, Lapu-Lapu City"
+  },
+  {
+    "value": "759",
+    "label": "Camella Marga Model    - Cordova Buri-road"
+  },
+  {
+    "value": "72",
+    "label": "Camella Montserrat    - Lapu-lapu City"
+  },
+  {
+    "value": "714",
+    "label": "Camella Reana Model    - Cordova-Buri St"
+  },
+  {
+    "value": "596",
+    "label": "Camella Riverview    - Talamban, Cebu City"
+  },
+  {
+    "value": "462",
+    "label": "Canduman Enclaves    - H. Abellana Street, Canduman Mandaue City"
+  },
+  {
+    "value": "31",
+    "label": "Casa Del Rio    - Highway 77, Talamban, Cebu City"
+  },
+  {
+    "value": "1567",
+    "label": "Casa Mira Bacolod    - Granada"
+  },
+  {
+    "value": "1852",
+    "label": "Casa Mira Guadalupe    - Casa Mira Towers Guadalupe, Cebu City, Cebu"
+  },
+  {
+    "value": "378",
+    "label": "Casa Mira South    - Mahaway Road Talisay City Cebu, Talisay City,"
+  },
+  {
+    "value": "740",
+    "label": "Casa Mira Tower    - Salvador Ext., Labangon"
+  },
+  {
+    "value": "1617",
+    "label": "Casa Mira Towers Mandaue    - Ibabao Estancia, Mandaue CIty"
+  },
+  {
+    "value": "59",
+    "label": "Casa Rosita    - Banawa, Cebu City"
+  },
+  {
+    "value": "655",
+    "label": "Casili Residences    - Casili, Consolacion"
+  },
+  {
+    "value": "852",
+    "label": "Catalunan Southpointe Homes    - Sitio San Pedro, Talomo"
+  },
+  {
+    "value": "624",
+    "label": "Centerville Phase I    - Jison Rd"
+  },
+  {
+    "value": "621",
+    "label": "Centerville Phase Ii    - Jison Rd"
+  },
+  {
+    "value": "626",
+    "label": "Centrale Bacolod    - Mandalangan, Bacolod City"
+  },
+  {
+    "value": "1272",
+    "label": "Centro Verde    - Ungka, Pavia"
+  },
+  {
+    "value": "745",
+    "label": "Charito 30    - Granada"
+  },
+  {
+    "value": "744",
+    "label": "Charito Heights Maria Rosa 32 Model    - Granda"
+  },
+  {
+    "value": "743",
+    "label": "Charito Heights Rafael 42 Model    - Granda"
+  },
+  {
+    "value": "224",
+    "label": "Charleston Homes    - Tayud,Consolacion,Cebu"
+  },
+  {
+    "value": "449",
+    "label": "Chateau De Paz    - Koinonia Hills, Songculan, Dauis, Bohol"
+  },
+  {
+    "value": "837",
+    "label": "Churchview Residences    - Casuntingan, Mandaue"
+  },
+  {
+    "value": "771",
+    "label": "Citation Residences    - Carmona- Timbao Road"
+  },
+  {
+    "value": "457",
+    "label": "Citi Grande    - Penaflor Street"
+  },
+  {
+    "value": "92",
+    "label": "Citiloft One Condominium    - Maxilom Avenue, Cebu City"
+  },
+  {
+    "value": "91",
+    "label": "City Di Mare (cebu)    - South Road Properties, Cebu City"
+  },
+  {
+    "value": "102",
+    "label": "City Homes Mactan    - Cagodoy St., Basak Lapu-lapu City"
+  },
+  {
+    "value": "103",
+    "label": "City Homes Mandaue    - JS ALinsog St., Basak Mandaue"
+  },
+  {
+    "value": "101",
+    "label": "City Homes Minglanilla    - Tungha-an Minglanilla"
+  },
+  {
+    "value": "308",
+    "label": "City Soho    - B. Rodriquez, Cebu City"
+  },
+  {
+    "value": "88880064",
+    "label": "City Suites Ramos Tower    - 0"
+  },
+  {
+    "value": "88880019",
+    "label": "Cityland Wack Wack Royal Mansion    - 0"
+  },
+  {
+    "value": "1017",
+    "label": "Cityscape 2    - Juana Osmena St., Camputhaw Cebu City"
+  },
+  {
+    "value": "715",
+    "label": "Cityscape Bacolod    - 6th lacson st"
+  },
+  {
+    "value": "813",
+    "label": "Ciudad Sor Serafina    - Los Amigos, Tugbok"
+  },
+  {
+    "value": "112",
+    "label": "Ckl Homes    - Agus Road Lapulapu City"
+  },
+  {
+    "value": "831",
+    "label": "Cloverleaf Residences    - Queen St.,DoÃ±a Maria Village 2,"
+  },
+  {
+    "value": "32",
+    "label": "Collinwood    - Basak, Mactan"
+  },
+  {
+    "value": "36",
+    "label": "Colorado Homes    - Liloan, Cebu"
+  },
+  {
+    "value": "446",
+    "label": "Colorado Homes Bohol    - Brgy. Taguihon, Baclayon"
+  },
+  {
+    "value": "1028",
+    "label": "Coral Resort Estates    - Initao,Mis.or"
+  },
+  {
+    "value": "347",
+    "label": "Corinthians Residences    - Andres Abellana Guadalupe"
+  },
+  {
+    "value": "468",
+    "label": "Corona Del Mar    - Bedar St."
+  },
+  {
+    "value": "318",
+    "label": "Corona Del Mar (cebu)    - Talisay, City Cebu"
+  },
+  {
+    "value": "195",
+    "label": "Costa Del Sol    - Mactan, Cebu"
+  },
+  {
+    "value": "1274",
+    "label": "Costa Del Sol    - Boulevard, Villa Arevalo"
+  },
+  {
+    "value": "1021",
+    "label": "Costa Smeralda    - Balabago, Jaro"
+  },
+  {
+    "value": "849",
+    "label": "Country Homes Alijis    - Alijis Road"
+  },
+  {
+    "value": "701",
+    "label": "Country Homes Phase 3    - San Miguel Village, Hi Residences"
+  },
+  {
+    "value": "786",
+    "label": "Country Homes Talisay    - talisay road"
+  },
+  {
+    "value": "411",
+    "label": "Courtyard Banawa    - Jose Fortitch St. Banawa, Cebu City"
+  },
+  {
+    "value": "597",
+    "label": "Courtyards Of Pasadena    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "570",
+    "label": "Crescent Ville    - Cadulawan, Minglanilla"
+  },
+  {
+    "value": "851",
+    "label": "Crestview Homes    - Brgy. Ula"
+  },
+  {
+    "value": "817",
+    "label": "Crestwood Phase 4    - no. 3 mckinley St."
+  },
+  {
+    "value": "739",
+    "label": "Cuidad Sor Serafina    - Los Amigos"
+  },
+  {
+    "value": "360",
+    "label": "D Pearl Residences    - Lamac, Consolacion"
+  },
+  {
+    "value": "1723",
+    "label": "Deca Homes Banilad    - A.S. Fortuna Banilad, Mandaue City"
+  },
+  {
+    "value": "43",
+    "label": "Deca Homes Esperanza    - Tigatto, Davao City"
+  },
+  {
+    "value": "808",
+    "label": "Deca Homes Gensan 1    - Calumpang"
+  },
+  {
+    "value": "46",
+    "label": "Deca Homes Pavia    - Brgy. Pandac, Iloilo City"
+  },
+  {
+    "value": "137",
+    "label": "Discovery Bay    - Lapu-lapu City, Cebu"
+  },
+  {
+    "value": "796",
+    "label": "Dominique Square    - Palao, Iligan City"
+  },
+  {
+    "value": "365",
+    "label": "Dona Justina    - Galas Dipolog City"
+  },
+  {
+    "value": "27",
+    "label": "Eagles' Nest    - Canduman,Mandaue City"
+  },
+  {
+    "value": "47",
+    "label": "East Cove Village    - Barangay Sto. Domingo, Cainta, Rizal."
+  },
+  {
+    "value": "88880044",
+    "label": "East Gallery Place    - 0"
+  },
+  {
+    "value": "399",
+    "label": "East Gate Residences    - Lapu-Lapu, City"
+  },
+  {
+    "value": "553",
+    "label": "East Homes Mansilingan    - Mansilingan, Bacolod City"
+  },
+  {
+    "value": "860",
+    "label": "East Villas    - Brgy. Estefania Fortune Town"
+  },
+  {
+    "value": "228",
+    "label": "Eastland Estate    - yati liloan"
+  },
+  {
+    "value": "547",
+    "label": "Elena Townhomes    - Guadalupe, Cebu"
+  },
+  {
+    "value": "575",
+    "label": "Elijah Homes    - Mambaling, Cebu City"
+  },
+  {
+    "value": "960",
+    "label": "Emerald Estates    - Cagbang, Oton"
+  },
+  {
+    "value": "838",
+    "label": "Estrella Residencia    - Songcula, Dauis"
+  },
+  {
+    "value": "1513",
+    "label": "Evissa Davao    - Matinga Pangi Diversion Road Davao City"
+  },
+  {
+    "value": "1053",
+    "label": "Evissa Mactan    - Brgy. Calawisan, Lapu-lapu City"
+  },
+  {
+    "value": "827",
+    "label": "Excellent Living Residences / Eminence    - Apopong"
+  },
+  {
+    "value": "829",
+    "label": "Excellent Living Residences / Imperial    - Apopong"
+  },
+  {
+    "value": "828",
+    "label": "Excellent Living Residences / Supremacy    - Apopong"
+  },
+  {
+    "value": "88880034",
+    "label": "Fairways Tower    - 0"
+  },
+  {
+    "value": "1642",
+    "label": "Fame Residences (manila)    - 1"
+  },
+  {
+    "value": "512",
+    "label": "Familia Apartments    - P.N. Roa"
+  },
+  {
+    "value": "1862",
+    "label": "Fatima Heights    - Tolotolo Consolacion"
+  },
+  {
+    "value": "791",
+    "label": "Fatima West Plain Subdivision    - Pagatpat, Cagayan De Oro"
+  },
+  {
+    "value": "1923",
+    "label": "Field Residences    - SUCAT"
+  },
+  {
+    "value": "88880033",
+    "label": "Fifth Avenue Place    - 0"
+  },
+  {
+    "value": "709",
+    "label": "Filinvest (butuan)    - Along National Highway of Baan, Butuan City"
+  },
+  {
+    "value": "680",
+    "label": "Florence By Aldea Premier    - Cubacub, Mandaue"
+  },
+  {
+    "value": "488",
+    "label": "Fontana Heights Residences    - Canduman, Mandaue City"
+  },
+  {
+    "value": "144",
+    "label": "Fonte Di Versailles    - Tulay, Minglanilla, Cebu"
+  },
+  {
+    "value": "88880013",
+    "label": "Forbeswood Heights    - 0"
+  },
+  {
+    "value": "88880012",
+    "label": "Forbeswood Parklane    - 0"
+  },
+  {
+    "value": "301",
+    "label": "Forest View Homes    - P.N. Roa"
+  },
+  {
+    "value": "88880054",
+    "label": "Fort Palm Spring Condominium    - 0"
+  },
+  {
+    "value": "88880058",
+    "label": "Fort Victoria    - 0"
+  },
+  {
+    "value": "781",
+    "label": "Fountain Grove    - circumferential road"
+  },
+  {
+    "value": "602",
+    "label": "Fresno Park View Homes    - Lumbia"
+  },
+  {
+    "value": "889",
+    "label": "Futura (bacolod)    - circumferential road"
+  },
+  {
+    "value": "705",
+    "label": "Futura Homes (cebu)    - Suba-basbas, Lapu-lapu City"
+  },
+  {
+    "value": "1079",
+    "label": "Futura Homes (iloilo)    - Cagamutan Sur, Leganes"
+  },
+  {
+    "value": "1894",
+    "label": "Futura Homes Zamboanga    - Brgy Zambowood Rd, Zamboanga, Zamboanga del Sur"
+  },
+  {
+    "value": "703",
+    "label": "Galleria Residences    - General Maxilom, Avenue Extension"
+  },
+  {
+    "value": "33",
+    "label": "Garden Bloom Villas    - Cotcot,Liloan"
+  },
+  {
+    "value": "131",
+    "label": "Glen Rose    - Carcar Cebu"
+  },
+  {
+    "value": "434",
+    "label": "Glenn Ivy Homes    - Ambago, Butuan City"
+  },
+  {
+    "value": "283",
+    "label": "Glenwood East Subdivision    - Bacolod"
+  },
+  {
+    "value": "824",
+    "label": "Golden Palm    - fortune town"
+  },
+  {
+    "value": "711",
+    "label": "Golden River    - Lacson st. Extension, Magsaysay ave"
+  },
+  {
+    "value": "726",
+    "label": "Goldmine    - Soong, Mactan"
+  },
+  {
+    "value": "88880028",
+    "label": "Grace Residences    - 0"
+  },
+  {
+    "value": "780",
+    "label": "Grand Cedar Homes    - Gitna Street"
+  },
+  {
+    "value": "90",
+    "label": "Grand Cenia Residences (cebu)    - Archbishop Reyes Ave., Cebu City (accross Cebu Business Park)"
+  },
+  {
+    "value": "88880055",
+    "label": "Grand Hyatt Manila Residences    - 0"
+  },
+  {
+    "value": "839",
+    "label": "Grand San Marino Residences    - Gen. Maxilom Avenue"
+  },
+  {
+    "value": "1351",
+    "label": "Grand Terrace Heights    - Casili, Consolacion Cebu"
+  },
+  {
+    "value": "560",
+    "label": "Grand Tower Cebu    - North Reclamation Area"
+  },
+  {
+    "value": "517",
+    "label": "Granvia Suites    - Pueblo de Oro Business Park, Mastersons Avenue"
+  },
+  {
+    "value": "299",
+    "label": "Granvia Suites    - Cagayan De Oro City"
+  },
+  {
+    "value": "442",
+    "label": "Granville    - Kean Bldg. F.S. Dizon Road, EL Rio Vista Village, Bacaca"
+  },
+  {
+    "value": "1006",
+    "label": "Granville Crest    - Catalunan Pequeno, Davao City"
+  },
+  {
+    "value": "182",
+    "label": "Green Homes Subdivision    - Tabunok, talisay city"
+  },
+  {
+    "value": "615",
+    "label": "Greenfield Residences    - Davao Road Lagao National Highway"
+  },
+  {
+    "value": "800",
+    "label": "Greenville    - Casili, Consolacion"
+  },
+  {
+    "value": "521",
+    "label": "Greenwoods    - Catalunan Grande, Davao del Sur"
+  },
+  {
+    "value": "135",
+    "label": "Greenwoods Executive Homes    - Pulang Bato, Talamban, Cebu City"
+  },
+  {
+    "value": "497",
+    "label": "Guada Plains    - Guadalupe, Cebu"
+  },
+  {
+    "value": "431",
+    "label": "Hacienda Salinas    - Lahug, Cebu City"
+  },
+  {
+    "value": "767",
+    "label": "Happy Homes    - Molave St., Tabunok, Talisay City"
+  },
+  {
+    "value": "233",
+    "label": "Happy Homes    - Soong 1, Mactan, Lapu-Lapu City, Cebu"
+  },
+  {
+    "value": "1872",
+    "label": "Happy Homes Naga    - Pacol, Naga City"
+  },
+  {
+    "value": "362",
+    "label": "Harmonis Residences    - Talisay, City Cebu"
+  },
+  {
+    "value": "257",
+    "label": "Henaville    - Compostela"
+  },
+  {
+    "value": "282",
+    "label": "Hi Residences    - Burgos Extension"
+  },
+  {
+    "value": "1005",
+    "label": "Hidalgo Homes    - Cabantian Road, Buhangin"
+  },
+  {
+    "value": "393",
+    "label": "Hijo Plantation Villas    - Tagum City, Davao del Norte"
+  },
+  {
+    "value": "825",
+    "label": "Hills Dale    - rizal road"
+  },
+  {
+    "value": "702",
+    "label": "Hillsborough Pointe    - Upper Carmen, Cagayan De Oro"
+  },
+  {
+    "value": "995",
+    "label": "Hope    - Onate De Leon St. Mandurriao"
+  },
+  {
+    "value": "288",
+    "label": "Horizons 101    - Mango Ave., Cebu City"
+  },
+  {
+    "value": "640",
+    "label": "Inspiria    - JP Laurel Avenue, Bajada"
+  },
+  {
+    "value": "977",
+    "label": "Isabella    - Ungka 2 Pavia Iloilo"
+  },
+  {
+    "value": "888",
+    "label": "Island Homes Mactan    - Suba-Masulog, Lapu-Lapu City,"
+  },
+  {
+    "value": "1251",
+    "label": "J Tower Residences    - J Centre Mandaue City"
+  },
+  {
+    "value": "171",
+    "label": "Jordan Heights Subdivision    - Tulo-Tulo, Consolacion, Cebu"
+  },
+  {
+    "value": "279",
+    "label": "Josefa Country Homes    - Banawa, Cebu City"
+  },
+  {
+    "value": "170",
+    "label": "Joville Heights    - San Vicente, Liloan, Cebu"
+  },
+  {
+    "value": "762",
+    "label": "Juanita Subdivision    - Barangay Buaya, Lapu Lapu City"
+  },
+  {
+    "value": "1083",
+    "label": "Kahale Residences    - Barangay Tunghaan, Minglanilla, Cebu"
+  },
+  {
+    "value": "88880017",
+    "label": "Kai Garden Residences    - 0"
+  },
+  {
+    "value": "2064",
+    "label": "Kalea Heights    - Good Shepherd Banawa, Guadalupe Cebu City"
+  },
+  {
+    "value": "123",
+    "label": "Kamalaya Residences    - Minglanilla, Cebu"
+  },
+  {
+    "value": "321",
+    "label": "Karls Town 2    - Mandaue, City Cebu"
+  },
+  {
+    "value": "593",
+    "label": "Kasara    - Eagle Avenue and P. E. Antonio Street"
+  },
+  {
+    "value": "254",
+    "label": "Kentwood    - Banawa"
+  },
+  {
+    "value": "334",
+    "label": "Kirei Park Residences    - Cadahu-an, Talamban, Cebu City"
+  },
+  {
+    "value": "88880018",
+    "label": "Knightsbridge Residences    - 0"
+  },
+  {
+    "value": "1027",
+    "label": "L.a. Center    - tungkil, minglanilla"
+  },
+  {
+    "value": "17",
+    "label": "La Aldea Del Mar    - Babag 2 Lapu2x City"
+  },
+  {
+    "value": "127",
+    "label": "La Citadella    - Talamban, Cebu City"
+  },
+  {
+    "value": "797",
+    "label": "La Cresta Hills    - Can-asujan, Carcar City"
+  },
+  {
+    "value": "24",
+    "label": "La Guardia Flats    - La Guardia, Lahug, Cebu City"
+  },
+  {
+    "value": "136",
+    "label": "La Mirada    - Mactan Cebu"
+  },
+  {
+    "value": "190",
+    "label": "La Mirande Crest Grand Europa    - Airport Road,Uptown,Lumbia,Cagayan de Oro"
+  },
+  {
+    "value": "795",
+    "label": "La Mirande Trails    - Gran Europa"
+  },
+  {
+    "value": "386",
+    "label": "La Nivea    - Holy Family Road, Nivel Hills, Lahug Cebu City"
+  },
+  {
+    "value": "448",
+    "label": "La Priscilla Homes    - Tinago, Dauis, Panglao"
+  },
+  {
+    "value": "296",
+    "label": "La Salle Condo Residences    - Bacolod"
+  },
+  {
+    "value": "532",
+    "label": "La Villa Concha    - Kabangkalan"
+  },
+  {
+    "value": "730",
+    "label": "La Villa Hermilinda    - Burgos St."
+  },
+  {
+    "value": "1325",
+    "label": "Lafayette    - Tabucan Mandurriao"
+  },
+  {
+    "value": "963",
+    "label": "Lahug Prime Residences    - 2nd Flr Jy Square Mall"
+  },
+  {
+    "value": "463",
+    "label": "Lancaster New City    - Imus-Alapan"
+  },
+  {
+    "value": "504",
+    "label": "Lancris Residences    - Dominic Savio Street corner Japan street"
+  },
+  {
+    "value": "650",
+    "label": "Las Casas De Maria    - Davao Del Sur"
+  },
+  {
+    "value": "563",
+    "label": "Las Casas Elena    - 2nd Floor Jovial Bldg., Lopez Jaena St., Corner Montilla Boulevard"
+  },
+  {
+    "value": "1031",
+    "label": "Latitude Condominiums    - Cebu, Business Park"
+  },
+  {
+    "value": "968",
+    "label": "Lazanthville Subdivision    - Purok Narra, Tayud, Liloan, Cebu"
+  },
+  {
+    "value": "1758",
+    "label": "Le Menda Residences    - ENTRANCE OF PLAZAVILLE SUBD., NIVEL HILLS, BUSAY, CEBU CITY"
+  },
+  {
+    "value": "634",
+    "label": "Legacie Country Homes    - CDO - Bukidnon"
+  },
+  {
+    "value": "728",
+    "label": "Legrand Heights    - Tawason, Mandaue"
+  },
+  {
+    "value": "690",
+    "label": "Lessandra Heights    - Lumbia"
+  },
+  {
+    "value": "77",
+    "label": "Lessandra Roma And Lessandra Palermo    - Talisay, Cebu"
+  },
+  {
+    "value": "74",
+    "label": "Lessandra Talamban    - Talamban, Cebu City"
+  },
+  {
+    "value": "591",
+    "label": "Little Baguio Terraces    - N. Domingo"
+  },
+  {
+    "value": "221",
+    "label": "Lot 8    - Almendras St., Mabolo Cebu City"
+  },
+  {
+    "value": "263",
+    "label": "Luana Homes    - Minglanilla, Cebu"
+  },
+  {
+    "value": "986",
+    "label": "Luciana Block    - Gbi, Cordova"
+  },
+  {
+    "value": "807",
+    "label": "Luisville    - fortune town"
+  },
+  {
+    "value": "910",
+    "label": "Lumina Bacolod    - Vista Alegre"
+  },
+  {
+    "value": "501",
+    "label": "Lumina Carcar    - Can-asujan, Carcar"
+  },
+  {
+    "value": "734",
+    "label": "Lumina Homes    - Gran Europa"
+  },
+  {
+    "value": "984",
+    "label": "Lumina Homes Butuan    - Barangay Taguibo"
+  },
+  {
+    "value": "699",
+    "label": "Lumina Homes Dumaguete    - Bacong - Valencia Road"
+  },
+  {
+    "value": "1229",
+    "label": "Lumina Homes Iloilo    - Abilay Norte, Oton"
+  },
+  {
+    "value": "765",
+    "label": "Ma. Luisa Residences    - akina Subdivision"
+  },
+  {
+    "value": "26",
+    "label": "Mabolo Garden Flats    - Mabolo, Cebu City"
+  },
+  {
+    "value": "1054",
+    "label": "Mabolo Townhouse    - Gil Tudtud Street"
+  },
+  {
+    "value": "610",
+    "label": "Mactan Plains - Erin Unit    - Brgy. Mactan, Lapu-Lapu City"
+  },
+  {
+    "value": "980",
+    "label": "Madelyn    - Ungka 2 Pavia Iloilo"
+  },
+  {
+    "value": "681",
+    "label": "Malibu By Aldea Premier    - Biasong, Talisay"
+  },
+  {
+    "value": "1061",
+    "label": "Malibu Residences    - Matina Davao City"
+  },
+  {
+    "value": "751",
+    "label": "Mandani Bay    - North Reclamation Area"
+  },
+  {
+    "value": "1046",
+    "label": "Manville Royale    - Araneta St."
+  },
+  {
+    "value": "530",
+    "label": "Marco Polo Residences    - Nivel Hills"
+  },
+  {
+    "value": "1072",
+    "label": "Marga Solo    - Gran Europa"
+  },
+  {
+    "value": "717",
+    "label": "Marina Spatial / Marina Town (dumaguete)    - Flores Ave Cor EJ Blanco St"
+  },
+  {
+    "value": "404",
+    "label": "Matina Enclaves    - davao golf drive cor. quimpo blvd. ecoland davao city"
+  },
+  {
+    "value": "663",
+    "label": "Maui Oasis - Building Kapalua (cebu)    - Anonas Street"
+  },
+  {
+    "value": "1025",
+    "label": "Mesatierra Davao    - Davao"
+  },
+  {
+    "value": "678",
+    "label": "Mesaverte Residences    - Corrales Extension"
+  },
+  {
+    "value": "1213",
+    "label": "Mesavirre    - Bata Road"
+  },
+  {
+    "value": "69",
+    "label": "Midori Plains    - Minglanilla"
+  },
+  {
+    "value": "276",
+    "label": "Midori Residences    - A.S Furtuna St. Banilad Cebu City"
+  },
+  {
+    "value": "1012",
+    "label": "Mimosa Subdivision    - Labangon, Cebu City"
+  },
+  {
+    "value": "1570",
+    "label": "Mivela Garden Residences    - Banilad, Cebu City"
+  },
+  {
+    "value": "82",
+    "label": "Mivesa Garden Residences    - Lahug, Cebu City"
+  },
+  {
+    "value": "481",
+    "label": "Modena Consolacion    - Lamac, Consolacion"
+  },
+  {
+    "value": "811",
+    "label": "Modena Liloan    - 123"
+  },
+  {
+    "value": "109",
+    "label": "Modena Mactan    - Basak, Lapu-lapu City, Cebu"
+  },
+  {
+    "value": "188",
+    "label": "Modena Minglanilla    - Tunghaan, Minglanilla Cebu"
+  },
+  {
+    "value": "1270",
+    "label": "Monte Rosa    - Hibao-an, Mandurriao"
+  },
+  {
+    "value": "490",
+    "label": "Monte Verde Subdivision    - Mariveles Hills"
+  },
+  {
+    "value": "625",
+    "label": "Monte Villas    - Pahanocoy"
+  },
+  {
+    "value": "792",
+    "label": "Montecristo Residences    - Tayud, Consolacion"
+  },
+  {
+    "value": "850",
+    "label": "Monteritz Classic Estates    - McArthur Highway"
+  },
+  {
+    "value": "1377",
+    "label": "Montierra    - Upper Balulang"
+  },
+  {
+    "value": "964",
+    "label": "Mountain View Homes    - Upper Balulang"
+  },
+  {
+    "value": "1029",
+    "label": "Mulberry Drive    - San Jose, Talamban"
+  },
+  {
+    "value": "673",
+    "label": "Navona Subdivision    - Brgy. Calawisan, Lapu-Lapu Cebu"
+  },
+  {
+    "value": "374",
+    "label": "Nichols Park    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "197",
+    "label": "North Ridge - Monterrazas De Cebu    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "2040",
+    "label": "North Singson Flats    - North Singson Flats, 8VGP+PJP, Village, Singson, Singson Rd, Cebu City, Cebu"
+  },
+  {
+    "value": "1068",
+    "label": "North Springville Townhomes (gardenia)    - Tacas, Jaro"
+  },
+  {
+    "value": "1069",
+    "label": "North Springville Townhomes (jasmine)    - Tacas, Jaro"
+  },
+  {
+    "value": "736",
+    "label": "North Verdana    - Brgy. Tawason, Mandaue City"
+  },
+  {
+    "value": "89",
+    "label": "Northfield Residences    - Canduman, Mandaue City"
+  },
+  {
+    "value": "471",
+    "label": "Northgate Subd - Margaret - Single Attached    - Bajac, Liloan Cebu"
+  },
+  {
+    "value": "472",
+    "label": "Northgate Subd - Martha - Single Attached    - Bajac, Liloan"
+  },
+  {
+    "value": "543",
+    "label": "Northpoint    - J.P. Laurel Bajada"
+  },
+  {
+    "value": "674",
+    "label": "Northstar Condominium    - Larrazabal Avenue, North Reclamation"
+  },
+  {
+    "value": "489",
+    "label": "Northtown Subdivision    - Libertad, Butuan City"
+  },
+  {
+    "value": "700",
+    "label": "Northville    - Sibulan, Negros Oriental"
+  },
+  {
+    "value": "503",
+    "label": "Northwoods Residences    - Canduman, Mandaue City"
+  },
+  {
+    "value": "1011",
+    "label": "Nortierra Subdivision    - Sitio Pundok, Pit-os, Talamban Cebu City"
+  },
+  {
+    "value": "1269",
+    "label": "Nottingham Villas    - Tagbak, Jaro"
+  },
+  {
+    "value": "267",
+    "label": "Oasis Subdivision    - Bacolod City"
+  },
+  {
+    "value": "979",
+    "label": "Olive    - Ungka 2 Pavia Iloilo"
+  },
+  {
+    "value": "985",
+    "label": "One Communities    - pahanocoy road"
+  },
+  {
+    "value": "826",
+    "label": "One Lakeshore    - Lanang"
+  },
+  {
+    "value": "1192",
+    "label": "One Manchester Place    - New Town"
+  },
+  {
+    "value": "1294",
+    "label": "One Oasis (cdo)    - Rosario Limketkai Avenue"
+  },
+  {
+    "value": "430",
+    "label": "One Oasis (cebu)    - Mabolo Cebu City"
+  },
+  {
+    "value": "88880063",
+    "label": "One Oasis Davao    - 0"
+  },
+  {
+    "value": "665",
+    "label": "One Oasis Ortigas (cebu)    - Ortigas Avenue Extension"
+  },
+  {
+    "value": "1193",
+    "label": "One Pacific Residences    - New Town"
+  },
+  {
+    "value": "309",
+    "label": "One Pavilion    - Banawa, Cebu City"
+  },
+  {
+    "value": "88880053",
+    "label": "One Serendra    - 0"
+  },
+  {
+    "value": "88880009",
+    "label": "One Shangri-la Place    - 0"
+  },
+  {
+    "value": "1082",
+    "label": "One Spatial (iloilo)    - R. Mapa St., Tabucan. Mandurriao, San Rafael, Iloilo City, Iloilo"
+  },
+  {
+    "value": "664",
+    "label": "One Spatial (manila)    - Amang Rodriguez"
+  },
+  {
+    "value": "88880041",
+    "label": "One Uptown Residence    - 0"
+  },
+  {
+    "value": "219",
+    "label": "Pacific Grande    - Carajay, Gun-ob, Lapu-Lapu City"
+  },
+  {
+    "value": "587",
+    "label": "Pacific Heights    - Igacos"
+  },
+  {
+    "value": "302",
+    "label": "Pag-ibig Citihomes    - Malanang, Opol"
+  },
+  {
+    "value": "869",
+    "label": "Palmyra Place    - Tayud, Consolacion"
+  },
+  {
+    "value": "647",
+    "label": "Panglao Ocean View    - Purok 1 Riverside, Songculan, Dauis"
+  },
+  {
+    "value": "444",
+    "label": "Panglao Ville    - Bil-isan, Panglao"
+  },
+  {
+    "value": "356",
+    "label": "Park Centrale    - Asia Town IT Park - Lahug, Cebu City."
+  },
+  {
+    "value": "88880027",
+    "label": "Park Mckinley West    - 0"
+  },
+  {
+    "value": "113",
+    "label": "Park Place    - Babag II Lapulapu City"
+  },
+  {
+    "value": "68",
+    "label": "Park Point Residences    - Cebu Business Park"
+  },
+  {
+    "value": "88880057",
+    "label": "Park Triangle Residences    - 0"
+  },
+  {
+    "value": "484",
+    "label": "Parthenon Residences    - Corner General Maxilum Ave Ext., J. De Vera St., North Reclamation Area, Cebu City"
+  },
+  {
+    "value": "88880049",
+    "label": "Penhurst Parkplace    - 0"
+  },
+  {
+    "value": "601",
+    "label": "Philam Life Village    - Upper Carmen"
+  },
+  {
+    "value": "836",
+    "label": "Pilar Residences    - I.T Park"
+  },
+  {
+    "value": "35",
+    "label": "Pinecrest Residences    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "88880011",
+    "label": "Pines Peak Tower    - 0"
+  },
+  {
+    "value": "1343",
+    "label": "Pinesuites    - 0"
+  },
+  {
+    "value": "590",
+    "label": "Pioneer Woodlands    - Boni Avenue"
+  },
+  {
+    "value": "1428",
+    "label": "Plumera    - Basak Kagudoy, Lapu-lapu"
+  },
+  {
+    "value": "1075",
+    "label": "Polli Inner    - San Jose, San Miguel"
+  },
+  {
+    "value": "455",
+    "label": "Portville Davao    - Sasa"
+  },
+  {
+    "value": "469",
+    "label": "Portville Mactan    - Mactan Airport Road"
+  },
+  {
+    "value": "848",
+    "label": "Portville Prime    - Brgy. Buaya-Bankal"
+  },
+  {
+    "value": "1058",
+    "label": "Preciousville    - Talisay"
+  },
+  {
+    "value": "1048",
+    "label": "Prima Vittoria    - Bankal, Cebu, Mactan, Lapu-Lapu City"
+  },
+  {
+    "value": "518",
+    "label": "Primavera Residences    - Mastersons Ave. Upper Carmen"
+  },
+  {
+    "value": "1473",
+    "label": "Primeworld District    - Agus, Mactan"
+  },
+  {
+    "value": "88880016",
+    "label": "Prisma Residences    - 0"
+  },
+  {
+    "value": "53",
+    "label": "Pristina North Residences    - Talamban, Cebu City"
+  },
+  {
+    "value": "377",
+    "label": "Pristine Grove Residences    - Talamban, San Jose, Cebu City"
+  },
+  {
+    "value": "54",
+    "label": "Priveya Hills    - Bacayan, Cebu"
+  },
+  {
+    "value": "1001",
+    "label": "Providence    - Balabag, Pavia"
+  },
+  {
+    "value": "903",
+    "label": "Providence    - angela Avenue Pavia Iloilo"
+  },
+  {
+    "value": "143",
+    "label": "Pueblo El Grande    - Tayud,Consolacion,Cebu"
+  },
+  {
+    "value": "81",
+    "label": "Queensland Manor Condominium    - Rahmann Street., Zapatera, Cebu City"
+  },
+  {
+    "value": "554",
+    "label": "Reef Residences    - Mactan, Lapu-Lapu City"
+  },
+  {
+    "value": "390",
+    "label": "Regatta East Village    - Km 3, National Highway, Ampayon, Butuan City, Agusan del Norte"
+  },
+  {
+    "value": "145",
+    "label": "Residences Of Coral Bay    - Tungkop, Minglanilla, Cebu"
+  },
+  {
+    "value": "192",
+    "label": "Residencia Del Rio    - Catalunan Pequeno, Davao City"
+  },
+  {
+    "value": "746",
+    "label": "Residencia Royale Barcelona    - Granda"
+  },
+  {
+    "value": "747",
+    "label": "Residencia Royale Marbella    - Granda"
+  },
+  {
+    "value": "1332",
+    "label": "Resort City Towers    - Tiange Road, Gun-ob, Lapu-lapu"
+  },
+  {
+    "value": "898",
+    "label": "Ricksville    - Cadulawan, Minglanilla, Cebu"
+  },
+  {
+    "value": "61",
+    "label": "Ridges    - Banawa, Cebu City"
+  },
+  {
+    "value": "2038",
+    "label": "Ridgewood Premier    - C5 Northbound, Taguig"
+  },
+  {
+    "value": "1803",
+    "label": "Ridgewood Towers    - C5 Northbound, Taguig"
+  },
+  {
+    "value": "595",
+    "label": "Riverdale    - Talamban, Cebu City"
+  },
+  {
+    "value": "628",
+    "label": "Riverside Residences    - Tungkop, Minglanilla"
+  },
+  {
+    "value": "895",
+    "label": "Riverwalk    - Pit-os, talamban, Cebu City"
+  },
+  {
+    "value": "206",
+    "label": "Robinland Residences    - Zuellig Av. NRA, Mandaue City"
+  },
+  {
+    "value": "325",
+    "label": "Rockwell    - Lahug. Cebu"
+  },
+  {
+    "value": "352",
+    "label": "Royal Garden Residences    - Mabolo, Cebu City"
+  },
+  {
+    "value": "1614",
+    "label": "Royal Oceancrest Mactan    - Sudtunggan Rd,Brgy Basak, Lapu lapu City,Cebu"
+  },
+  {
+    "value": "88880056",
+    "label": "Royal Palm Residences    - 0"
+  },
+  {
+    "value": "447",
+    "label": "Royal Palms Dos    - Brgy. Dao, Dauis, Panglao, Bohol"
+  },
+  {
+    "value": "445",
+    "label": "Royal Palms Panglao    - Dao Dauis, Panglao"
+  },
+  {
+    "value": "1049",
+    "label": "Royal Palms Panglao Tres    - San Isidro Dauis"
+  },
+  {
+    "value": "212",
+    "label": "Saekyung Condominium    - Mactan"
+  },
+  {
+    "value": "589",
+    "label": "San Lorenzo Place    - San Lorenzo Village"
+  },
+  {
+    "value": "789",
+    "label": "San Miguel Village    - Burgos Extension"
+  },
+  {
+    "value": "900",
+    "label": "San Remo Oasis (cebu)    - South Road Properties, Cebu City"
+  },
+  {
+    "value": "88880025",
+    "label": "Sea Residences    - 0"
+  },
+  {
+    "value": "619",
+    "label": "Seawind    - Km. 11 Buhangin District"
+  },
+  {
+    "value": "1039",
+    "label": "Sedona Parc    - Leyte Loop, Cebu"
+  },
+  {
+    "value": "1009",
+    "label": "Sheraton    - Punta Engano, Lapu-lapu"
+  },
+  {
+    "value": "88880065",
+    "label": "Sheridan Towers    - 0"
+  },
+  {
+    "value": "1969",
+    "label": "Shore Residences    - Seaside Blvd. Cor Sunrise Pasay City"
+  },
+  {
+    "value": "450",
+    "label": "Sibukaw Resort Residences    - Brgy. Bingag, Dauis, Panglao"
+  },
+  {
+    "value": "88880005",
+    "label": "Signa Designer Residences    - 0"
+  },
+  {
+    "value": "785",
+    "label": "Smart Condominium    - Upper Carmen, Cagayan de Oro City"
+  },
+  {
+    "value": "88880059",
+    "label": "Smdc Coast Residences    - 0"
+  },
+  {
+    "value": "220",
+    "label": "Solinea    - Cebu Business Park, Cebu City"
+  },
+  {
+    "value": "383",
+    "label": "Soltana    - Lapu-Lapu, Marigondon City"
+  },
+  {
+    "value": "843",
+    "label": "Sora Residences Akira    - General Santos"
+  },
+  {
+    "value": "845",
+    "label": "Sora Residences Kazumi    - General Santos"
+  },
+  {
+    "value": "844",
+    "label": "Sora Residences Kiyomi    - General Santos"
+  },
+  {
+    "value": "847",
+    "label": "Sora Residences Michiko    - General Santos"
+  },
+  {
+    "value": "846",
+    "label": "Sora Residences Misora    - General Santos"
+  },
+  {
+    "value": "88880022",
+    "label": "Sorrento Oasis    - 0"
+  },
+  {
+    "value": "656",
+    "label": "Sorrento Oasis Building O    - C. Raymundo Avenue"
+  },
+  {
+    "value": "453",
+    "label": "South Covina    - Dumlog, Talisay City"
+  },
+  {
+    "value": "37",
+    "label": "South Glendale    - San Isidro, Talisay"
+  },
+  {
+    "value": "88880031",
+    "label": "South Of Market Private Residences    - 0"
+  },
+  {
+    "value": "622",
+    "label": "South Residences    - Araneta St"
+  },
+  {
+    "value": "859",
+    "label": "South Valley    - highway St."
+  },
+  {
+    "value": "854",
+    "label": "Southvilla Heights    - Mintal"
+  },
+  {
+    "value": "130",
+    "label": "Spianada    - Corner Rahmann and Benedicto Sts., Cebu"
+  },
+  {
+    "value": "375",
+    "label": "St. Ignatius De Loyola Townhomes    - Lawaan, Talisay City"
+  },
+  {
+    "value": "753",
+    "label": "Sta. Lucia Gardens    - Taculing st"
+  },
+  {
+    "value": "658",
+    "label": "Studio 7 Edsa Timog    - 807 EDSA"
+  },
+  {
+    "value": "669",
+    "label": "Studio A Katipunan    - 99 Xavierville Ave. cor Esteban Abada St."
+  },
+  {
+    "value": "1519",
+    "label": "Style Residences (iloilo)    - Mandurriao"
+  },
+  {
+    "value": "1066",
+    "label": "Summerville    - upper palalan"
+  },
+  {
+    "value": "439",
+    "label": "Sunberry Homes    - Lapu-lapu City"
+  },
+  {
+    "value": "278",
+    "label": "Sundance    - Banawa, Cebu City"
+  },
+  {
+    "value": "507",
+    "label": "Suntrust Asmara    - E. Rodriguez, Quezon City"
+  },
+  {
+    "value": "508",
+    "label": "Suntrust Kirana    - Urbano Velasco Avenue"
+  },
+  {
+    "value": "520",
+    "label": "Suntrust Riva Bella    - General Trias"
+  },
+  {
+    "value": "510",
+    "label": "Suntrust Shanata    - Quirino Avenue"
+  },
+  {
+    "value": "511",
+    "label": "Suntrust Treetop Villas    - Coronado St."
+  },
+  {
+    "value": "682",
+    "label": "Sunvida Tower    - Juan Luna Ave. North Reclamation Area"
+  },
+  {
+    "value": "562",
+    "label": "Symfoni    - Guadalupe, CebuCity"
+  },
+  {
+    "value": "774",
+    "label": "Symfoni Kamias    - 10 K-J Street"
+  },
+  {
+    "value": "724",
+    "label": "Taft East Gate    - Mabolo, Cebu City"
+  },
+  {
+    "value": "405",
+    "label": "Tali Residences    - Mohon Dumlog, Talisay City, Cebu"
+  },
+  {
+    "value": "671",
+    "label": "Talisay - Camella Azienda    - Near SRP"
+  },
+  {
+    "value": "215",
+    "label": "Tambuli Resort Residences    - Buyong Beach, Mactan Island Lapu- Lapu City"
+  },
+  {
+    "value": "1015",
+    "label": "Telo Residences    - Minglanilla, Cebu"
+  },
+  {
+    "value": "974",
+    "label": "Terraville Subdivision    - Terraville St."
+  },
+  {
+    "value": "768",
+    "label": "Terrazas Subdivision    - bago st."
+  },
+  {
+    "value": "88880062",
+    "label": "The A. Venue Suites, Makati    - 0"
+  },
+  {
+    "value": "88880035",
+    "label": "The Albany Luxury Residences    - 0"
+  },
+  {
+    "value": "88880046",
+    "label": "The Bellagio    - 0"
+  },
+  {
+    "value": "227",
+    "label": "The Courtyards Banawa    - Banawa"
+  },
+  {
+    "value": "1056",
+    "label": "The Enclave    - Upper"
+  },
+  {
+    "value": "1403",
+    "label": "The Florence    - mckinley"
+  },
+  {
+    "value": "88880051",
+    "label": "The Florence    - 0"
+  },
+  {
+    "value": "853",
+    "label": "The Gardens At South Ridge    - Toril, Davao City"
+  },
+  {
+    "value": "110",
+    "label": "The Grand San Marino Residences    - J. DEVERA STREET, NORTH RECLAMATION CEBU CITY"
+  },
+  {
+    "value": "741",
+    "label": "The Hacienda    - circumferential road"
+  },
+  {
+    "value": "88880036",
+    "label": "The Icon Residences    - 0"
+  },
+  {
+    "value": "88880032",
+    "label": "The Infinity Fort Bonifacio    - 0"
+  },
+  {
+    "value": "668",
+    "label": "The Linear Makati    - Malugay cor. Mayapis and Yakal St."
+  },
+  {
+    "value": "1045",
+    "label": "The Links Mactan    - Mactan, Lapu-lapu City"
+  },
+  {
+    "value": "286",
+    "label": "The Loop    - Cagayan De Oro City"
+  },
+  {
+    "value": "146",
+    "label": "The Mazari Cove    - Inayagan, Naga City Cebu"
+  },
+  {
+    "value": "60",
+    "label": "The Midlands At Casa Rosita    - Banawa, Cebu City"
+  },
+  {
+    "value": "609",
+    "label": "The Midpoint Residences    - Ines Ouano Road, A.S. Fortuna St., Banilad, Mandaue City"
+  },
+  {
+    "value": "88880048",
+    "label": "The Montane    - 0"
+  },
+  {
+    "value": "339",
+    "label": "The Padgett Place    - Lahug. Cebu"
+  },
+  {
+    "value": "55",
+    "label": "The Persimmon    - Mabolo, Cebu City"
+  },
+  {
+    "value": "56",
+    "label": "The Persimmon Studios    - Mabolo, Cebu City"
+  },
+  {
+    "value": "1901",
+    "label": "The Pinnacle    - Megaworld Boulevard, Mandurriao, Iloilo"
+  },
+  {
+    "value": "88880024",
+    "label": "The Proscenium At Rockwell    - 0"
+  },
+  {
+    "value": "88880066",
+    "label": "The Residences At Commonwealth By Century    - 0"
+  },
+  {
+    "value": "474",
+    "label": "The Residences At North Ridge    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "473",
+    "label": "The Residences At The Peaks    - Guadalupe, Cebu City"
+  },
+  {
+    "value": "88880007",
+    "label": "The Rise Makati    - 0"
+  },
+  {
+    "value": "1767",
+    "label": "The Seasons Residences    - 34th"
+  },
+  {
+    "value": "88880050",
+    "label": "The Seasons Residences    - 0"
+  },
+  {
+    "value": "88880045",
+    "label": "The Suites At One Bonifacio High Street    - 0"
+  },
+  {
+    "value": "88880040",
+    "label": "The Trion Towers    - 0"
+  },
+  {
+    "value": "124",
+    "label": "The Villagio    - San Fernando Cebu"
+  },
+  {
+    "value": "100",
+    "label": "Tiara Del Sur    - Talisay, Cebu"
+  },
+  {
+    "value": "1016",
+    "label": "Tierra Nava    - Dapdap, Pob. 3, Carcar City, Cebu"
+  },
+  {
+    "value": "1036",
+    "label": "Tierra Remedios    - Rizal St."
+  },
+  {
+    "value": "88880052",
+    "label": "Time Square West    - 0"
+  },
+  {
+    "value": "769",
+    "label": "Tivoli Condo    - Centorion, Talamban"
+  },
+  {
+    "value": "204",
+    "label": "Tribeca Grand Tower    - Archbishop Reyes Ave., Cebu City"
+  },
+  {
+    "value": "88880003",
+    "label": "Trump Tower At Century City    - 0"
+  },
+  {
+    "value": "88880010",
+    "label": "Twin Oaks Place    - 0"
+  },
+  {
+    "value": "574",
+    "label": "Twin Palms Residences    - San Rafael Street"
+  },
+  {
+    "value": "88880023",
+    "label": "Two Lafayette Square    - 0"
+  },
+  {
+    "value": "2039",
+    "label": "Two Serendra    - Bonifacio Global City, Taguig"
+  },
+  {
+    "value": "88880014",
+    "label": "Two Serendra    - 0"
+  },
+  {
+    "value": "94",
+    "label": "Ultima Prime (fuente Tower 4)    - Osmeña Blvd, Cebu City"
+  },
+  {
+    "value": "607",
+    "label": "Ultima Residences Fuente Tower 3    - Osmeña Blvd, Cebu City"
+  },
+  {
+    "value": "93",
+    "label": "Ultima Residences Ramos Tower    - F. Ramos Street"
+  },
+  {
+    "value": "1654",
+    "label": "Uma Residences    - Magsaysay Ave, Naga, Camarines Sur"
+  },
+  {
+    "value": "546",
+    "label": "Univille Homes    - Talisay, City Cebu"
+  },
+  {
+    "value": "88880047",
+    "label": "Uptown Ritz    - 0"
+  },
+  {
+    "value": "815",
+    "label": "Uraya Residences    - Sitio Filomena, Catalunan Grande"
+  },
+  {
+    "value": "88880020",
+    "label": "Urban Deca Homes Ortigas    - 0"
+  },
+  {
+    "value": "1890",
+    "label": "Urban Hive Palms    - Amazon Street along Bacaca Road, Davao City"
+  },
+  {
+    "value": "42",
+    "label": "Urban Homes    - Tipolo, Mandaue City"
+  },
+  {
+    "value": "830",
+    "label": "Urban Homes H.cortes    - Subangdaku, Mandaue City"
+  },
+  {
+    "value": "675",
+    "label": "Urban Homes Tisa    - Tisa, Cebu City"
+  },
+  {
+    "value": "1003",
+    "label": "Valle Verde Residential Estates - Davao"
+  },
+  {
+    "value": "426",
+    "label": "Vcdu Eastwood Subdivision    - Baan, Butuan City"
+  },
+  {
+    "value": "294",
+    "label": "Vera Estates    - Tawason, Mandaue City"
+  },
+  {
+    "value": "1085",
+    "label": "Verdon Parc    - Ecoland Drive corner Peacock St."
+  },
+  {
+    "value": "231",
+    "label": "Vertu Residences    - Salinas Drive Lahug Cebu City"
+  },
+  {
+    "value": "88880038",
+    "label": "Verve Residences    - 0"
+  },
+  {
+    "value": "556",
+    "label": "Viceroy    - McKinley Taguig"
+  },
+  {
+    "value": "1073",
+    "label": "Victoria De Malate 2    - Angel Linao St, Malate, Manila"
+  },
+  {
+    "value": "713",
+    "label": "Victors' Subdivision    - 00000"
+  },
+  {
+    "value": "627",
+    "label": "Villa Antonella Subdivision    - Cadiz"
+  },
+  {
+    "value": "208",
+    "label": "Villa Azalea-ana Model    - Cotcot, Liloan, Cebu"
+  },
+  {
+    "value": "353",
+    "label": "Villa Casita    - Balamban, Cebu"
+  },
+  {
+    "value": "164",
+    "label": "Villa Celina    - Tungkil, Minglanilla Cebu"
+  },
+  {
+    "value": "522",
+    "label": "Villa Conchita    - Bago Gallera"
+  },
+  {
+    "value": "810",
+    "label": "Villa Cristina    - 1st st."
+  },
+  {
+    "value": "983",
+    "label": "Villa Donna    - Biasong, Talisay"
+  },
+  {
+    "value": "706",
+    "label": "Villa Estefania    - Fortune Towne"
+  },
+  {
+    "value": "461",
+    "label": "Villa Grande Subd    - G/F door B9 Plaza De Luisa Bldg, R."
+  },
+  {
+    "value": "614",
+    "label": "Villa Jovita    - Polog, Consolacion"
+  },
+  {
+    "value": "770",
+    "label": "Villa Magdalena Subdivision    - Murcia Road"
+  },
+  {
+    "value": "1050",
+    "label": "Villa Mercedita (davao)"
+  },
+  {
+    "value": "491",
+    "label": "Villa Plantana    - Sitio Libo, Mohon Talisay City"
+  },
+  {
+    "value": "620",
+    "label": "Villa Purita Hills    - Pakigne, Minglanilla"
+  },
+  {
+    "value": "648",
+    "label": "Villa Riza    - Upper San Vicenete"
+  },
+  {
+    "value": "729",
+    "label": "Villa Rosanna    - Garing Consolacion"
+  },
+  {
+    "value": "835",
+    "label": "Villa San Miguel    - recreo"
+  },
+  {
+    "value": "58",
+    "label": "Villa Sebastiana    - Tawason Mandaue City"
+  },
+  {
+    "value": "573",
+    "label": "Villa Senorita    - Brgy. Mahayahay, Langub,"
+  },
+  {
+    "value": "1074",
+    "label": "Villa Sofia    - Ula"
+  },
+  {
+    "value": "666",
+    "label": "Vinia Residences + Versaflats    - EDSA"
+  },
+  {
+    "value": "406",
+    "label": "Vista De Bahia    - Pondol Street, Tayud, Consolacion, Cebu."
+  },
+  {
+    "value": "1241",
+    "label": "Vista Suarez    - Gorordo Ave., Corner Escario St"
+  },
+  {
+    "value": "139",
+    "label": "Vista Verde Cebu    - Brgy. Sac-sac, Consolacion, Cebu."
+  },
+  {
+    "value": "1051",
+    "label": "Vita Amore Homes    - San Isidro District"
+  },
+  {
+    "value": "698",
+    "label": "Vita Tower    - EDSA North Triangle"
+  },
+  {
+    "value": "693",
+    "label": "Vivaldi Residences    - Ramon Magsaysay Ave, Poblacion District"
+  },
+  {
+    "value": "692",
+    "label": "Vivaldi Residences    - Cubao"
+  },
+  {
+    "value": "88880060",
+    "label": "Vsm Premiere - Neo Model    - 0"
+  },
+  {
+    "value": "999",
+    "label": "Wellford Homes    - Balabago, Jaro"
+  },
+  {
+    "value": "1382",
+    "label": "West Jones Residenes    - Uytengsu St. near Osmena Blvd. (Jones Ave.), Cebu City"
+  },
+  {
+    "value": "1043",
+    "label": "Windsor Heights Subdivision    - Mabuhay"
+  },
+  {
+    "value": "2037",
+    "label": "Winland Residences Tower A    - Capitol, Cebu City"
+  },
+  {
+    "value": "185",
+    "label": "Winland Residences Tower B    - Capitol, Cebu City"
+  },
+  {
+    "value": "25",
+    "label": "Woodcrest Residences    - Don Quijada St.,Guadalupe,Cebu City"
+  },
+  {
+    "value": "413",
+    "label": "Woodway Townhomes    - Barangay Pooc, Talisay City, Cebu"
+  },
+  {
+    "value": "1064",
+    "label": "Xavier Estates    - Upper"
+  },
+  {
+    "value": "1033",
+    "label": "Yanessa Country Homes    - Tolotolo, Consolacion"
+  },
+  {
+    "value": "147",
+    "label": "Zen Residences At Vizkaya    - Calajoan, Minglanilla, Cebu"
+  },
+  {
+    "value": "752",
+    "label": "Zephyr    - Taculing st"
+  }
+]
