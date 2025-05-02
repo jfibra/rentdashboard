@@ -13,35 +13,113 @@ function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/profile" element={<ProfilePage />} />
-            <Route path="/track-property" element={<UnderConstructionPage title="Track your property" />} />
-            <Route path="/saved-properties" element={<UnderConstructionPage title="My saved properties" />} />
-            <Route path="/saved-searches" element={<UnderConstructionPage title="Saved searches & alerts" />} />
-            <Route path="/renter-profile" element={<UnderConstructionPage title="Renter Profile" />} />
-            <Route path="/rental-applications" element={<UnderConstructionPage title="Rental applications" />} />
-            <Route path="/finances" element={<UnderConstructionPage title="My finances" />} />
-            <Route path="/settings" element={<UnderConstructionPage title="Settings" />} />
-            <Route path="/my-listings" element={<UnderConstructionPage title="My rental listings" />} />
-            <Route path="/property-management" element={<UnderConstructionPage title="Property Management" />} />
-            <Route path="/client-database" element={<UnderConstructionPage title="Client Database" />} />
-            <Route path="/scheduled-viewings" element={<UnderConstructionPage title="Scheduled Viewings" />} />
-            <Route path="/client-messages" element={<UnderConstructionPage title="Client Messages" />} />
-            <Route path="/landing-page-builder" element={<UnderConstructionPage title="Build a Landing Page" />} />
             <Route path="/inbox" element={<Inbox />} />
             <Route path="/create-listing/*" element={<CreateListing />} />
+            <Route
+              path="/my-listings"
+              element={
+                <div className="page-container">
+                  <h1>My Listings</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/business-card"
+              element={
+                <div className="page-container">
+                  <h1>Digital Business Card</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/rental-tracker"
+              element={
+                <div className="page-container">
+                  <h1>Rental Tracker</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/edit-profile"
+              element={
+                <div className="page-container">
+                  <h1>Edit Profile</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/change-password"
+              element={
+                <div className="page-container">
+                  <h1>Change Password</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/track-property"
+              element={
+                <div className="page-container">
+                  <h1>Track your property</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+
+            {/* Real Estate Agent Tools Routes */}
+            <Route
+              path="/property-management"
+              element={
+                <div className="page-container">
+                  <h1>Property Management</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/client-database"
+              element={
+                <div className="page-container">
+                  <h1>Client Database</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/scheduled-viewings"
+              element={
+                <div className="page-container">
+                  <h1>Scheduled Viewings</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/client-messages"
+              element={
+                <div className="page-container">
+                  <h1>Client Messages</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
+            <Route
+              path="/landing-page-builder"
+              element={
+                <div className="page-container">
+                  <h1>Build a Landing Page</h1>
+                  <p>This page is under construction.</p>
+                </div>
+              }
+            />
           </Routes>
         </div>
       </div>
     </Router>
-  )
-}
-
-// Simple component for pages under construction
-function UnderConstructionPage({ title }: { title: string }) {
-  return (
-    <div className="page-container">
-      <h1>{title}</h1>
-      <p>This page is under construction.</p>
-    </div>
   )
 }
 

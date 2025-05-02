@@ -13,8 +13,96 @@ export const Dashboard = () => {
     navigate(path)
   }
 
-  // Profile section cards
-  const profileCards = [
+  // Original dashboard cards
+  const cards = [
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/renter-profile-a57cf99925fc818f5634.svg"
+          alt="My Profile"
+        />
+      ),
+      title: "My Profile",
+      description: "View and manage your personal profile information.",
+      path: "/profile",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/private-landlord-31fca422a6f744faca86.svg"
+          alt="Inbox"
+        />
+      ),
+      title: "Inbox",
+      description: "Check your messages and notifications.",
+      path: "/inbox",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/my-saved-properties-17cb33442c8a823d8ed4.svg"
+          alt="Create Listing"
+        />
+      ),
+      title: "Create Listing",
+      description: "Create a new property listing to rent or sell.",
+      path: "/create-listing",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/private-landlord-31fca422a6f744faca86.svg"
+          alt="My Listings"
+        />
+      ),
+      title: "My Listings",
+      description: "Manage your current property listings.",
+      path: "/my-listings",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/my-profile-a838b483e65c127e54bd.svg"
+          alt="Digital Business Card"
+        />
+      ),
+      title: "Digital Business Card",
+      description: "Create and share your digital business card.",
+      path: "/business-card",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/saved-searches-bcd8bbbb459aac291031.svg"
+          alt="Rental Tracker"
+        />
+      ),
+      title: "Rental Tracker",
+      description: "Track and manage your rental properties.",
+      path: "/rental-tracker",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/rental-applications-662c29ce786270508556.svg"
+          alt="Edit Profile"
+        />
+      ),
+      title: "Edit Profile",
+      description: "Update your profile information and preferences.",
+      path: "/edit-profile",
+    },
+    {
+      icon: (
+        <ExternalSvgIcon
+          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/account-settings-6c69225a00019dcfa35a.svg"
+          alt="Change Password"
+        />
+      ),
+      title: "Change Password",
+      description: "Update your account password and security settings.",
+      path: "/change-password",
+    },
     {
       icon: (
         <ExternalSvgIcon
@@ -25,94 +113,6 @@ export const Dashboard = () => {
       title: "Track your property",
       description: "Stay up to date with your home or properties you own.",
       path: "/track-property",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/my-saved-properties-17cb33442c8a823d8ed4.svg"
-          alt="My saved properties"
-        />
-      ),
-      title: "My saved properties",
-      description: "View open times and auctions for properties you've saved.",
-      path: "/saved-properties",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/saved-searches-bcd8bbbb459aac291031.svg"
-          alt="Saved searches & alerts"
-        />
-      ),
-      title: "Saved searches & alerts",
-      description: "View your saved searches and configure their alerts.",
-      path: "/saved-searches",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/renter-profile-a57cf99925fc818f5634.svg"
-          alt="Renter Profile"
-        />
-      ),
-      title: "Renter Profile",
-      description: "Create or update your Renter Profile.",
-      path: "/renter-profile",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/rental-applications-662c29ce786270508556.svg"
-          alt="Rental applications"
-        />
-      ),
-      title: "Rental applications",
-      description: "Track the status and view your rental applications.",
-      path: "/rental-applications",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/my-profile-a838b483e65c127e54bd.svg"
-          alt="My finances"
-        />
-      ),
-      title: "My finances",
-      description: "Financial tools to help you make better property decisions.",
-      path: "/finances",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/account-settings-6c69225a00019dcfa35a.svg"
-          alt="Settings"
-        />
-      ),
-      title: "Settings",
-      description: "Manage your login details, notifications and privacy settings.",
-      path: "/settings",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/my-profile-a838b483e65c127e54bd.svg"
-          alt="My profile"
-        />
-      ),
-      title: "My profile",
-      description: "Manage your personal details and property needs.",
-      path: "/profile",
-    },
-    {
-      icon: (
-        <ExternalSvgIcon
-          url="https://argonaut.au.reastatic.net/resi-myrea/prod/me-web/private-landlord-31fca422a6f744faca86.svg"
-          alt="My rental listings"
-        />
-      ),
-      title: "My rental listings",
-      description: "Create and manage your rental property listings.",
-      path: "/my-listings",
     },
   ]
 
@@ -195,18 +195,16 @@ export const Dashboard = () => {
         </button>
       </div>
 
-      <div className="dashboard-section">
-        <div className="dashboard-grid">
-          {profileCards.map((card, index) => (
-            <DashboardCard
-              key={index}
-              icon={card.icon}
-              title={card.title}
-              description={card.description}
-              onClick={() => handleCardClick(card.path)}
-            />
-          ))}
-        </div>
+      <div className="dashboard-grid">
+        {cards.map((card, index) => (
+          <DashboardCard
+            key={index}
+            icon={card.icon}
+            title={card.title}
+            description={card.description}
+            onClick={() => handleCardClick(card.path)}
+          />
+        ))}
       </div>
 
       <div className="dashboard-section">
